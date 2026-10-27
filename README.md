@@ -9,7 +9,7 @@ Le travail suit une progression pédagogique en 4 étapes majeures allant du mod
 ## 👨‍💻 Auteur & Cadre
 - **Étudiant :** Iliass Mouhtad
 - **Cadre académique :** Module d'Intelligence Artificielle Multimodale / Deep Learning
-- **Établissement :** ENSET Université Hassan II de Casablanca
+- **Établissement :** EMSI
 - **Notebook de référence :** `Modeles_generatifs_pytorch_avec_explications.ipynb` (Pr. Mohamed YOUSSFI)
 
 ---
